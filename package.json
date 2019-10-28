@@ -1,0 +1,23 @@
+{
+   "name": "introapi",
+   "version": "1.0.0",
+   "description": "",
+   "main": "index.js",
+   "scripts": {
+      "server": "nodemon index.js"
+   },
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/vannasok/introapi.git"
+   },
+   "keywords": [],
+   "author": "",
+   "license": "ISC",
+   "bugs": {
+      "url": "https://github.com/vannasok/introapi/issues"
+   },
+   "homepage": "https://github.com/vannasok/introapi#readme",
+   "devDependencies": {
+      "nodemon": "^1.19.4"
+   }
+}
